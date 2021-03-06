@@ -2,9 +2,9 @@
   /* multi-line comment */
   // single-line comment
   // Uncomment and modify options
-  "algo": "neoscrypt",
-  "url": "stratum+tcp://neoscrypt.usa-west.nicehash.com:3341",
-  "user": "3NxnT5ZhynoH972NWXXZekETzpgY3U54Ls.saturn",
+  "algo": "aeternity",
+  "url": "ae.2miners.com:4040",
+  "user": "ak_XATKxKxeH365ucZaEfFYfHarRLh7uuEs52LLEja8RwbRVA9pA",
   "pass": "x",
   "cpu-priority": 0,
   "intensity": 2
